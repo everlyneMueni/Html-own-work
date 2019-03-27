@@ -1,0 +1,44 @@
+
+.Mueny{
+	padding: 20px;
+	text-align: left;
+	background-color: white;
+	color: white;
+	font-size: 20px;
+	border-style: double;
+	color: black;
+	
+
+
+}
+.kyengo{
+	font: 15px;
+	
+
+
+}
+.eve{
+	border-style: double;
+	padding: left;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+
+	
+	
+
+}
+.melon  li{
+	padding: left;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 15px;
+	float: right;
+	list-style: none;
+	padding: 10px;
+
+
+
+}
